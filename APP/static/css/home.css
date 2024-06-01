@@ -1,0 +1,14 @@
+body{
+    background-image:url("../img/homebg.jpg");
+    background-size:cover;
+}
+
+.color{
+    color:white;
+}
+
+a{
+    color:#E78718;
+    text-decoration: none;
+ }
+
